@@ -55,3 +55,8 @@ textarea{
     width: 100%;
     border-radius: 3px;
 }
+#botton{
+    background-color: skyblue;
+    font-size: 22px;
+    border-radius: 4px;
+}
